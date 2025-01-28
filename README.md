@@ -6,9 +6,9 @@ Still a bunch of things that dont work but updated all the aliases as the syntax
 Locations: 
 
 
-steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+//steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 
 steamapps\common\Counter-Strike Global Offensive\game\core\cfg
 
-steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
+//steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 
